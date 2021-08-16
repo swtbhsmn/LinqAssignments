@@ -18,12 +18,11 @@ namespace LinqAssignments
                     using (StreamReader reader = new StreamReader(File.OpenRead(filePath)))
                     {
                         var csv = reader.ReadToEnd()
-                            .Split('\n').Skip(1)
-                            .SelectMany(x => x.Split(',').Skip(1))
-                            .Select(i=>(float)int.Parse(i))
-                            .ToList();
+                                        .Split('\n').Skip(1)
+                                        .SelectMany(x => x.Split(',').Skip(1))
+                                        .Select(i=>(float)int.Parse(i))
+                                        .ToList();
                         
-
                        foreach(var i in csv)
                        {
                             Console.WriteLine(i);
