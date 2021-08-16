@@ -1,0 +1,13 @@
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\bin\Debug\netcoreapp3.1\LinqAssignments.exe
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\bin\Debug\netcoreapp3.1\LinqAssignments.deps.json
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\bin\Debug\netcoreapp3.1\LinqAssignments.runtimeconfig.json
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\bin\Debug\netcoreapp3.1\LinqAssignments.runtimeconfig.dev.json
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\bin\Debug\netcoreapp3.1\LinqAssignments.dll
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\bin\Debug\netcoreapp3.1\LinqAssignments.pdb
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\obj\Debug\netcoreapp3.1\LinqAssignments.csproj.AssemblyReference.cache
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\obj\Debug\netcoreapp3.1\LinqAssignments.AssemblyInfoInputs.cache
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\obj\Debug\netcoreapp3.1\LinqAssignments.AssemblyInfo.cs
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\obj\Debug\netcoreapp3.1\LinqAssignments.csproj.CoreCompileInputs.cache
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\obj\Debug\netcoreapp3.1\LinqAssignments.dll
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\obj\Debug\netcoreapp3.1\LinqAssignments.pdb
+C:\Datagrokr\csharp\LinqAssignments\LinqAssignments\obj\Debug\netcoreapp3.1\LinqAssignments.genruntimeconfig.cache
